@@ -1,0 +1,13 @@
+/.idea/shelf
+/.idea/watcherTasks.xml
+/.idea/workspace.xml
+
+# Node files
+/node_modules
+
+# OS files
+.DS_Store
+._.DS_Store
+
+# Temporary files
+*~
