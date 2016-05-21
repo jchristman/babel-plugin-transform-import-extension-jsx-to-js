@@ -1,9 +1,9 @@
 {
-  "name": "babel-plugin-transform-import-extension-es6-to-js",
+  "name": "babel-plugin-transform-import-extension-jsx-to-js",
   "version": "0.1.0",
-  "description": "This Babel 6 plugin transforms the extension of imported files from .es6 to .js.",
-  "repository": "https://github.com/markwoon/babel-plugin-transform-import-extension-es6-to-js",
-  "bugs": "https://github.com/markwoon/babel-plugin-transform-import-extension-es6-to-js/issues",
+  "description": "This Babel 6 plugin transforms the extension of imported files from .jsx to .js.",
+  "repository": "https://github.com/jchristman/babel-plugin-transform-import-extension-jsx-to-js",
+  "bugs": "https://github.com/jchristman/babel-plugin-transform-import-extension-jsx-to-js/issues",
   "license": "MIT",
   "main": "lib/index.js",
   "keywords": [
